@@ -1,0 +1,6 @@
+D:\ccc\Permutation\Permutation\bin\Debug\Permutation.exe.config
+D:\ccc\Permutation\Permutation\bin\Debug\Permutation.exe
+D:\ccc\Permutation\Permutation\bin\Debug\Permutation.pdb
+D:\ccc\Permutation\Permutation\obj\Debug\Permutation.exe
+D:\ccc\Permutation\Permutation\obj\Debug\Permutation.pdb
+D:\ccc\Permutation\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
